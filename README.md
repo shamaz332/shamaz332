@@ -1,5 +1,5 @@
 # Hello World 👋
-[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:shamazsaeed332@@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-shamazsaeed332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shamazsaeed332@@gmail.com)](mailto:shamazsaeed332@@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
