@@ -5,8 +5,8 @@
 
 ### I'm Shamaz Saeed
 
-- 🔭 Bachelor of Computer Science in Progress
-- 💬 Ask me about JavaScript,TypeScript,AWS and my projects on shamazsaeed332@gmail.com
+- 🔭 Computer Science Graduate
+- 💬 Ask me about JavaScript,TypeScript,Reactjs,Vuejs,Firebase,Nodejs,AWS and my projects on shamazsaeed332@gmail.com
 - ⚡ Fun fact: Full Stack Developer📊
 
 ### Languages and Tools
