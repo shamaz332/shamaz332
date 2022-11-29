@@ -9,8 +9,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shamaz332&theme=dracula&hide_border=true)
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamaz332&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="shamaz332" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shamaz332&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="shamaz332" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamaz332&theme=highcontrast&hide_border=true" alt="shamaz332" /> </p>
-
 ### Languages and Tools
 
 <code><img height="20" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet.png"></code>
