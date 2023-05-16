@@ -1,31 +1,39 @@
-# Hello World 👋
-[![Mail Badge](https://img.shields.io/badge/-shamazsaeed332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shamazsaeed332@@gmail.com)](mailto:shamazsaeed332@@gmail.com)
----
-### I'm Shamaz Saeed
+# Shamaz Saeed - Full Stack Developer 👋
 
-- 🔭 Computer Science Graduate
-- 💬 Ask me about JavaScript,TypeScript,Reactjs,Vuejs,Tailwind CSS,Firebase,Nodejs,AWS and my projects on shamazsaeed332@gmail.com
-- ⚡ Fun fact: Frontend Developer📊
+![GitHub followers](https://img.shields.io/github/followers/shamaz332?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shamaz332?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-shamazsaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shamaz-saeed/)](https://www.linkedin.com/in/shamaz-saeed/)
+[![Mail Badge](https://img.shields.io/badge/-shamazsaeed332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shamazsaeed332@gmail.com)](mailto:shamazsaeed332@gmail.com)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shamaz332&theme=dracula&hide_border=true)
+## 🧔 About Me 
 
-### Languages and Tools
+I am Shamaz Saeed, a Computer Science Graduate and Full Stack Developer with a wide array of skills across JavaScript technologies. I am passionate about creating innovative and efficient solutions to complex problems, and I continually strive to improve my skillset.
 
-<code><img height="20" src="https://w7.pngwing.com/pngs/1007/564/png-transparent-java-script-logo-javascript-web-development-logo-script-text-computer-programming-internet.png"></code>
-<code><img height="20" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
-<code><img height="20" src="https://img2.pngio.com/nodejs-javascript-web-application-expressjs-computer-software-node-png-820_820.jpg"></code>
-<code><img height="20" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png"></code>
-<code><img height="20" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH"></code>
-<code><img height="20" src="https://dbdb.io/media/logos/Fauna_Logo_blue.png"></code>
-<code><img height="20" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
+## 💻 Technical Skills
 
+**Frontend**: ReactJS, HTML, CSS, JavaScript, Tailwind CSS, React Hooks, GraphQL, Gatsby, NextJS, Redux, Material-UI, Bootstrap, Storybook, Responsive Design
 
+**Backend**: Node.js, Express, RESTful API Development
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+**Databases**: MongoDB, SQL, Firebase
 
+**DevOps**: AWS (Lambda, S3, DynamoDB, AppSync), GIT, GitHub, CI/CD
+
+**Testing**: Jest, React Testing Library
+
+**Project Management**: JIRA, Agile Methodologies, TDD
+
+**Other Skills**: Contentful, Sanity, Linux, SEO, Google Analytics, WordPress API, Webpack
+
+## ⚙️ GitHub Stats & Contributions
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamaz332&show_icons=true&theme=dracula)
+
+## 📬 Get in Touch 
+
+- LinkedIn: [linkedin.com/in/shamaz-saeed](https://www.linkedin.com/in/shamaz-saeed/)
+- Email: [shamazsaeed332@gmail.com](mailto:shamazsaeed332@gmail.com)
+
+I love connecting with other tech enthusiasts and collaborating on projects. If you're interested in teaming up or just want to chat about web development, feel free to reach out to me.
 
 ⭐️ From [Shamaz](https://github.com/shamaz332)
