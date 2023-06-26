@@ -17,7 +17,7 @@ I am Shamaz Saeed, a Computer Science Graduate and Full Stack Developer with a w
 
 **Databases**: MongoDB, SQL, Firebase
 
-**DevOps**: AWS (Lambda, S3, DynamoDB, AppSync), GIT, GitHub, CI/CD
+**DevOps**: GIT, GitHub, CI/CD
 
 **Testing**: Jest, React Testing Library
 
