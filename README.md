@@ -1,4 +1,4 @@
-# Shamaz Saeed - Full Stack Developer 👋
+# Shamaz Saeed - Software Engineer 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/shamaz332?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/shamaz332?style=social)
@@ -7,7 +7,7 @@
 
 ## 🧔 About Me 
 
-I am Shamaz Saeed, a Computer Science Graduate and Full Stack Developer with a wide array of skills across JavaScript technologies. I am passionate about creating innovative and efficient solutions to complex problems, and I continually strive to improve my skillset.
+I am Shamaz Saeed, a Computer Science graduate currently pursuing a Masters in Software Engineering. As a Software Engineer with a strong foundation in JavaScript technologies, I bring a versatile skill set to the table. My passion lies in devising innovative and efficient solutions for complex problems, and I am committed to continually enhancing my expertise. With a keen interest in the dynamic field of Software Engineering, I strive to stay ahead of industry trends by expanding my skill set. I am dedicated to contributing my knowledge and technical acumen to impactful projects that demand a creative and analytical approach.
 
 ## 💻 Technical Skills
 
