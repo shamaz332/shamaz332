@@ -7,7 +7,9 @@
 
 ## 🧔 About Me 
 
-I am Shamaz Saeed, a Computer Science graduate currently pursuing a Masters in Software Engineering. As a Software Engineer with a strong foundation in JavaScript technologies, I bring a versatile skill set to the table. My passion lies in devising innovative and efficient solutions for complex problems, and I am committed to continually enhancing my expertise. With a keen interest in the dynamic field of Software Engineering, I strive to stay ahead of industry trends by expanding my skill set. I am dedicated to contributing my knowledge and technical acumen to impactful projects that demand a creative and analytical approach.
+I am Shamaz Saeed, a Software Engineer with a Bachelor's in Computer Science and a Master's in Software Engineering from the University of Hertfordshire. With 3 years of professional experience, I have contributed to impactful projects across various industries. My expertise lies in modern JavaScript frameworks, including ReactJS, VueJS, and NextJS, along with a strong foundation in full-stack development. 
+
+I am passionate about solving complex technical challenges with innovative solutions and am always eager to enhance my skill set by keeping up with emerging technologies. I strive to contribute meaningfully to projects that demand a creative and analytical approach, focusing on optimization, user experience, and performance.
 
 ## 💻 Technical Skills
 
@@ -17,13 +19,13 @@ I am Shamaz Saeed, a Computer Science graduate currently pursuing a Masters in S
 
 **Databases**: MongoDB, SQL, Firebase
 
-**DevOps**: GIT, GitHub, CI/CD
+**DevOps**: GIT, GitHub, CI/CD, Azure DevOps
 
 **Testing**: Jest, React Testing Library
 
 **Project Management**: JIRA, Agile Methodologies, TDD
 
-**Other Skills**: Contentful, Sanity, Linux, SEO, Google Analytics, WordPress API, Webpack
+**Other Skills**: Convex, Clerk, shadcn, Contentful, Sanity, Linux, SEO, Google Analytics, WordPress API, Webpack
 
 ## ⚙️ GitHub Stats & Contributions
 
@@ -34,6 +36,6 @@ I am Shamaz Saeed, a Computer Science graduate currently pursuing a Masters in S
 - LinkedIn: [linkedin.com/in/shamaz-saeed](https://www.linkedin.com/in/shamaz-saeed/)
 - Email: [shamazsaeed332@gmail.com](mailto:shamazsaeed332@gmail.com)
 
-I love connecting with other tech enthusiasts and collaborating on projects. If you're interested in teaming up or just want to chat about web development, feel free to reach out to me.
+I am always open to discussing new opportunities and collaborations in the field of software engineering. Feel free to reach out if you are interested in teaming up on exciting projects or just want to have a conversation about web development!
 
 ⭐️ From [Shamaz](https://github.com/shamaz332)
